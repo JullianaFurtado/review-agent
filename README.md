@@ -1,5 +1,9 @@
 # 📝 Agente de triagem de avaliações com IA
 
+![dashboard](imagens/dashboard.png)
+![graficos](imagens/graficos.png)
+![fila](imagens/fila.png)
+
 Agente que lê avaliações de clientes de um app de delivery e, para cada uma, devolve **sentimento**, **categoria do problema**, **urgência** e uma **resposta sugerida**. Os resultados aparecem num dashboard com uma fila de atendimento que mostra os casos urgentes primeiro.
 
 ## O problema
